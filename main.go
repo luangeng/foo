@@ -1,6 +1,6 @@
 package foo
 
-import fmt
+import "fmt"
 
 func init() {
     fmt.Println("foo init invoke")
